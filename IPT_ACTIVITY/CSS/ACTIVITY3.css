@@ -1,0 +1,10 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+.ph{
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+}

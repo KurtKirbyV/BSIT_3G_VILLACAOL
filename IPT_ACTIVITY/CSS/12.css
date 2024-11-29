@@ -1,0 +1,43 @@
+*{
+    margin: 15px;
+    padding: 15px;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.pic{
+    border: solid 2px black;
+    width: 120px;
+    height: 120px;
+    float: right;
+    margin-right: 200px;
+} 
+
+h2{
+    border: solid 2px black;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    width: 1075px;
+}
+
+.text{
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 1075px;
+
+}
+.last{
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 475px;
+    float: left;
+}
+.final{
+    float: right;
+    padding-right: 200px;
+}
+
